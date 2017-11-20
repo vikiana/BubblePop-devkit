@@ -1,0 +1,17 @@
+{
+  "appID": "484f709d3ef743ba93029a570f5b6585",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#"
+  },
+  "shortName": "BubblePopper",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "BubblePopper"
+}
